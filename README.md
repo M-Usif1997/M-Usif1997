@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **m.yosef.1997@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZyrTFXuVzGxdcygqaSlNQgXCV6w0CThF/view?usp=sharing](https://drive.google.com/file/d/1ZyrTFXuVzGxdcygqaSlNQgXCV6w0CThF/view?usp=sharing)
 
 
 
