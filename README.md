@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm Mahmoud Youssef Aly</h1>
+<h1 align="center">Hi 👋, I'm Mahmoud Youssef Aly</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-usif1997&label=Profile%20views&color=0e75b6&style=flat" alt="m-usif1997" /> </p>
